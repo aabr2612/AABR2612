@@ -1,4 +1,4 @@
-### I am Abdul Rehamn 👋
+### I am Abdul Rehman 👋
 
 <!--
 **Abdul-Rehman2612/Abdul-Rehman2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
