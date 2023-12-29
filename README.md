@@ -1,8 +1,8 @@
 ### I am Abdul Rehman 👋
 
 - 👋 Hi, I’m @Abdul-Rehman2612
-- 👀 I’m interested cyber security, AI and web development!!!
-- 🌱 I’m currently learning c++, html and CSS.
+- 👀 I’m interested Cyber Security and AI.
+- 🌱 I’m currently learning C++, Python, html and CSS.
 
 <!---
 Abdul-Rehman2612/Abdul-Rehman2612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
