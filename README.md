@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS student from UET,Lahore Pakistan</h3>
 - 🔭 I’m currently studying at **UET Lahore**
 
-- 🌱 I’m currently learning C++, Python, html and CSS.
+- 🌱 I’m currently learning OOP and database.
   
 - 👯 I’m looking to collaborate on **cyber security**
 
@@ -10,8 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul-rehman-08ab05279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija-saeed-85681329a" height="30" width="40" /></a>
-<a href="https://instagram.com/aabr2612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khadijaa.saeed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-rehman-08ab05279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rehman-08ab05279" height="30" width="40" /></a>
+<a href="https://instagram.com/aabr2612" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aabr2612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
