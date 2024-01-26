@@ -1,8 +1,11 @@
 <h1 align="center">I am Abdul Rehman 👋</h1>
 <h3 align="center">A passionate CS student from UET,Lahore Pakistan</h3>
 - 🔭 I’m currently studying at UET,Lahore.
+
 - 🌱 I’m currently learning OOP and database.
+  
 - 👯 I’m looking to collaborate on **cyber security**
+  
 - 📫 How to reach me **aabr2612@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
