@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning OOP and database.
   
-- 👯 I’m looking to collaborate on **cyber security**
+- 👯 I’m looking to collaborate on **web development**
   
 - 📫 How to reach me **aabr2612@gmail.com**
 
