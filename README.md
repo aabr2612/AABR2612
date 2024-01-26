@@ -1,4 +1,4 @@
-<h1>I am Abdul Rehman 👋</h1>
+<h1 style="align: centre">I am Abdul Rehman 👋</h1>
 
 - 👋 Hi, I’m @Abdul-Rehman2612
 - 👀 I’m interested Cyber Security and AI.
