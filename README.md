@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at UET,Lahore.
 
-- 🌱 I’m currently learning OOP and database.
+- 🌱 I’m currently learning DSA.
   
 - 👯 I’m looking to collaborate on **web development**
   
