@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning DSA.
   
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **unity game development**
   
 - 📫 How to reach me **aabr2612@gmail.com**
 
