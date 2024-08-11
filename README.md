@@ -103,8 +103,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg" alt="MSSQL" width="40" height="40"/>
-    </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_SQL_Server_Logo.png" alt="MSSQL" width="40" height="40"/>
+</a>
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="phpMyAdmin" width="40" height="40"/>
     </a>
@@ -130,8 +130,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Gmail_Icon.png" alt="Canva" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Canva_logo.png" alt="Canva" width="40" height="40"/>
 </a>
   </p>
 </div>
-<!-- Footer or Additional Section (Optional
