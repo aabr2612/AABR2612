@@ -130,7 +130,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Canva_logo.png" alt="Canva" width="40" height="40"/>
+  <img src="canva.jfif" alt="Canva" width="40" height="40"/>
 </a>
   </p>
 </div>
