@@ -22,6 +22,7 @@
 </div>
 
 <!-- Connect with Me Section -->
+<!-- Connect with Me Section -->
 <div style="background-color: rgba(0, 0, 0, 0.6); margin: 20px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h3 style="color: #ffffff;">Connect with me:</h3>
   <p>
@@ -31,8 +32,18 @@
     <a href="https://instagram.com/aabr2612" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
+    <a href="https://wa.me/0923287178507" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30" />
+    </a>
+    <a href="mailto:aabr2612@gmail.com" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png" alt="Email" height="30" width="30" />
+    </a>
+    <a href="https://facebook.com/aabr2612" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" />
+    </a>
   </p>
 </div>
+
 
 <!-- Languages and Tools Section -->
 <div style="background-color: rgba(0, 0, 0, 0.6); margin: 20px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
@@ -117,6 +128,9 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Gmail_Icon.png" alt="Canva" width="40" height="40"/>
 </a>
   </p>
 </div>
