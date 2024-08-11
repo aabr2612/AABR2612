@@ -103,7 +103,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
-  <img src="mssql.png" alt="MSSQL" width="40" height="40"/>
+  <img src="mssql.jpg" alt="MSSQL" width="40" height="40"/>
 </a>
     <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="phpMyAdmin" width="40" height="40"/>
