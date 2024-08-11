@@ -1,19 +1,26 @@
 <!-- Profile Header -->
-<h1 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">I am Abdul Rehman 👋</h1>
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #555;">A passionate CS student from UET, Lahore, Pakistan</h3>
+<h1 align="center" style="font-family: Arial, sans-serif; color: #ffffff; background-color: #333333; padding: 10px;">I am Abdul Rehman 👋</h1>
+<h3 style="font-family: 'Courier New', Courier, monospace; color: #888;">A passionate CS student from UET, Lahore, Pakistan</h3>
 
 <!-- About Me Section -->
-<p align="center" style="margin: 20px 0;">
+<p style="color: #cccccc; font-size: 16px;">
   🔭 I’m currently studying at <strong>UET, Lahore</strong>.<br>
-  🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA)</strong>.<br>
-  👯 I’m looking to collaborate on <strong>Unity Game Development</strong>.<br>
-  📫 How to reach me: <a href="mailto:aabr2612@gmail.com">aabr2612@gmail.com</a>
+  🌱 I’m currently learning <strong>Data Structures and Algorithms (DSA)</strong> and <strong>Web Development</strong>.<br>
+  👯 I’m looking to collaborate on <strong>Web Development</strong> and <strong>Object-Oriented Programming (OOP)</strong>.<br>
+  📫 How to reach me: <a href="mailto:aabr2612@gmail.com" style="color: #4CAF50;">aabr2612@gmail.com</a>
+</p>
+
+<!-- Ask Me About Section -->
+<h3 style="font-family: Arial, sans-serif; color: #ffffff; background-color: #333333; padding: 10px;">Ask Me About:</h3>
+<p style="color: #cccccc; font-size: 16px;">
+  💡 Object-Oriented Programming (OOP)<br>
+  🌐 Web Development
 </p>
 
 <!-- Connect with Me Section -->
-<h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-rehman-08ab05279" target="_blank">
+<h3 style="font-family: Arial, sans-serif; color: #ffffff; background-color: #333333; padding: 10px;">Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/aabr2612" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/aabr2612" target="_blank">
@@ -22,8 +29,8 @@
 </p>
 
 <!-- Languages and Tools Section -->
-<h3 align="center" style="font-family: Arial, sans-serif; color: #4CAF50;">Languages and Tools:</h3>
-<p align="center">
+<h3 style="font-family: Arial, sans-serif; color: #ffffff; background-color: #333333; padding: 10px;">Languages and Tools:</h3>
+<p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -38,12 +45,7 @@
   </a>
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabr2612&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <!-- Footer or Additional Section (Optional) -->
-<p align="center" style="font-family: Arial, sans-serif; color: #555; font-size: 14px;">
+<p style="font-family: Arial, sans-serif; color: #888888; font-size: 14px;">
   "Let's connect and build something amazing together!"
 </p>
