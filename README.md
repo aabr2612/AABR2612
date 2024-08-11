@@ -36,7 +36,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30" />
     </a>
     <a href="mailto:aabr2612@gmail.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png" alt="Email" height="30" width="30" />
+      <img src="gmail.png" alt="Email" height="30" width="30" />
     </a>
     <a href="https://facebook.com/aabr2612" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" />
