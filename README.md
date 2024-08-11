@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center" style="font-family: Arial, sans-serif; color: #ffffff; background-color: #333333; padding: 10px;">I am Abdul Rehman 👋</h1>
-<h3 style="font-family: 'Courier New', Courier, monospace; color: #888;">A passionate CS student from UET, Lahore, Pakistan</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #888;">A passionate CS student from UET, Lahore, Pakistan</h3>
 
 <!-- About Me Section -->
 <p style="color: #cccccc; font-size: 16px;">
