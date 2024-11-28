@@ -40,9 +40,13 @@
     <a href="mailto:aabr2612@gmail.com" target="_blank">
       <img src="gmail.png" alt="Email" height="30" width="30" />
     </a>
-    <a href="https://facebook.com/aabr2612" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="30" />
+    <a href="https://www.hackerrank.com/aabr2612" target="_blank">
+      <img src="hackerrank.png" alt="hackerrank" height="30" width="30" />
     </a>
+    <a href="https://leetcode.com/aabr2612/" target="_blank">
+      <img src="leetcode.png" alt="leetcode" height="30" width="30" />
+    </a>
+    
   </p>
 </div>
 
