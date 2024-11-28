@@ -17,6 +17,8 @@
   <h3 style="color: #ffffff;">Ask Me About:</h3>
   <p style="color: #dcdcdc; font-size: 16px;">
     💡 Object-Oriented Programming (OOP)<br>
+    💡 Data Structures and algorithms (DSA)<br>
+    🌐 Unity Gaming <br>
     🌐 Web Development
   </p>
 </div>
