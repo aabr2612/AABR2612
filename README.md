@@ -6,7 +6,7 @@
 <div style="background-color: rgba(0, 0, 0, 0.6); margin: 20px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <p style="color: #dcdcdc; font-size: 16px;">
     🔭 I’m currently studying at <strong style="color: #ffffff;">UET, Lahore</strong>.<br>
-    🌱 I’m currently learning <strong style="color: #ffffff;">Data Structures and Algorithms (DSA)</strong> and <strong style="color: #ffffff;">Web Development</strong>.<br>
+    🌱 I’m currently learning <strong style="color: #ffffff;">Data Structures and Algorithms (DSA)</strong>.<br>
     👯 I’m looking to collaborate on <strong style="color: #ffffff;">Web Development</strong> and <strong style="color: #ffffff;">Unity Gaming</strong>.<br>
     📫 How to reach me: <a href="mailto:aabr2612@gmail.com" style="color: #4CAF50;">aabr2612@gmail.com</a>
   </p>
