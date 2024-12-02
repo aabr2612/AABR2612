@@ -56,7 +56,7 @@
   <h3 style="color: #ffffff;">Languages and Tools:</h3>
   <p>
     <!-- Programming Languages -->
-    <strong>Programming Languages:</strong><br>
+    <strong>Programming Languages:</strong><br><br>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     </a>
@@ -77,7 +77,7 @@
     </a>
     <!-- Web Technologies -->
     <br><br>
-    <strong>Web Technologies:</strong><br>
+     <strong>Frontend Technologies:</strong><br><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
     </a>
@@ -92,7 +92,7 @@
     </a>
     <!-- Backend Technologies -->
     <br><br>
-    <strong>Backend Technologies:</strong><br>
+    <strong>Backend Technologies:</strong><br><br>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     </a>
@@ -101,7 +101,7 @@
     </a>
     <!-- Databases -->
     <br><br>
-    <strong>Databases:</strong><br>
+    <strong>Databases:</strong><br><br>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
     </a>
@@ -116,7 +116,7 @@
     </a>
     <!-- Other Tools -->
     <br><br>
-    <strong>Other Tools:</strong><br>
+    <strong>Other Tools:</strong><br><br>
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
     </a>
@@ -139,4 +139,6 @@
   <img src="canva.jfif" alt="Canva" width="40" height="40"/>
 </a>
   </p>
+  <br>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabr2612&show_icons=true&locale=en&layout=compact" alt="aabr2612" /></p>
 </div>
