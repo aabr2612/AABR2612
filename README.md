@@ -77,7 +77,7 @@
     </a>
     <!-- Web Technologies -->
     <br><br>
-     <strong>Frontend Technologies:</strong><br><br>
+     <strong>Web Technologies:</strong><br><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
     </a>
@@ -90,9 +90,6 @@
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
     </a>
-    <!-- Backend Technologies -->
-    <br><br>
-    <strong>Backend Technologies:</strong><br><br>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     </a>
