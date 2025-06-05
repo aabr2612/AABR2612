@@ -6,8 +6,8 @@
 <div style="background-color: rgba(0, 0, 0, 0.6); margin: 20px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <p style="color: #dcdcdc; font-size: 16px;">
     🔭 I’m currently studying at <strong style="color: #ffffff;">UET, Lahore</strong>.<br>
-    🌱 I’m currently learning <strong style="color: #ffffff;">Data Structures and Algorithms (DSA)</strong>.<br>
-    👯 I’m looking to collaborate on <strong style="color: #ffffff;">Web Development</strong> and <strong style="color: #ffffff;">Unity Gaming</strong>.<br>
+    🌱 I’m currently learning <strong style="color: #ffffff;">Cyber Security</strong>.<br>
+    👯 I’m looking to collaborate on <strong style="color: #ffffff;">Web Development</strong> and <strong style="color: #ffffff;">Cyber Security</strong>.<br>
     📫 How to reach me: <a href="mailto:aabr2612@gmail.com" style="color: #4CAF50;">aabr2612@gmail.com</a>
   </p>
 </div>
@@ -16,10 +16,10 @@
 <div style="background-color: rgba(0, 0, 0, 0.6); margin: 20px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
   <h3 style="color: #ffffff;">Ask Me About:</h3>
   <p style="color: #dcdcdc; font-size: 16px;">
-    💡 Object-Oriented Programming (OOP)<br>
-    💡 Data Structures and algorithms (DSA)<br>
-    🌐 Unity Gaming <br>
-    🌐 Web Development
+    💡 Web Development<br>
+    💡 Cyber Security<br>
+    💡 Application Development<br>
+    🌐 Software Solutions
   </p>
 </div>
 
@@ -89,6 +89,9 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" />
     </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
