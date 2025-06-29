@@ -146,7 +146,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabr2612&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td width="60%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabr2612&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabr2612" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
