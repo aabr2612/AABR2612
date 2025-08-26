@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Programming Languages  
+### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -73,16 +73,16 @@
 ---
 
 ## 🤝 Connect With Me  
-💡 *Need assistance or wanna collaborate? Let’s connect!*  
+*Need assistance or wanna collaborate? Let’s connect!*  
 <p align="center">
-  <a href="https://linkedin.com/in/aabr2612" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://wa.me/923287178507" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:aabr2612@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://linkedin.com/in/aabr2612" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/aabr2612" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
