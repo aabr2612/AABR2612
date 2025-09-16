@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Abdul Rehman</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Cyber Security Analyst</h3>
 
 <p align="center"><i>"Security isn’t just a feature of software — it’s the foundation of its quality."</i></p>
 
