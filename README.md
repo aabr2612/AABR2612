@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Cyber Security Enthusiast</h3>
 
 <p align="center">
-A developer who loves to code, code, and code — to fix bugs, break things, and somehow make it all work out of nowhere!
+Someone who loves to code, code, and code — fix bugs, break things, and somehow make everything work out of nowhere!
 </p>
 
 ---
