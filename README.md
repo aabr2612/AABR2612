@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Abdul Rehman</h1>
-<h3 align="center">Full-Stack Developer | Cyber Security Enthusiast</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
 Someone who loves to code, code, and code — fix bugs, break things, and somehow make everything work out of nowhere!
@@ -11,7 +11,6 @@ Someone who loves to code, code, and code — fix bugs, break things, and someho
 <p align="center">
   
   <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
